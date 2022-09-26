@@ -2,3 +2,44 @@
 
 # Verónica González
  Diseño UX/UI | Web Developer
+
+## Diseño UX/UI
+
+Conocimientos en: 
+- Diseño de experiencia de usuario
+- Research
+- Bechmark
+- Arquitectura de información
+- Diseño de Interacción
+- Diseño de Interfaces
+- UI Design
+- Figma
+- Maquetas HTML y CSS
+- Diseño responsivo
+- Bootstrap
+
+## Desarrollo Web
+
+Conocimientos en:
+- HTML5
+- CSS3
+- Grid
+- Flexbox
+- Bootstap
+- SASS
+- LESS
+- JQuery
+- Javascript
+- GitHub
+
+## SEO
+- Sitemap
+- Robots.txt
+- Investigación de Palabras Clave
+- Optimización OnPage
+- Optimización OffPage
+- Medición
+- Google PageSpeed
+- Google Trends
+- Google Search Console
+- Google Mobile Friendly
