@@ -2,7 +2,7 @@
 
 # Verónica González
 
-Web Developer
+Web Developer | Diseño UX/UI
 
 ## Desarrollo Web
 
