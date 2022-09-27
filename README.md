@@ -5,13 +5,6 @@
 
 ## Diseño UX/UI
 
-Conocimientos básicos en:
-- Diseño de experiencia de usuario
-- Research
-- Bechmark
-- Arquitectura de información
-- Diseño de Interacción
-
 Conocimientos intermedios en:
 - Diseño de Interfaces
 - UI Design
@@ -19,6 +12,13 @@ Conocimientos intermedios en:
 - Maquetas HTML y CSS
 - Diseño responsivo
 - Bootstrap
+
+Conocimientos básicos en:
+- Diseño de experiencia de usuario
+- Research
+- Bechmark
+- Arquitectura de información
+- Diseño de Interacción
 
 ## Desarrollo Web
 
