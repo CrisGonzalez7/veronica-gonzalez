@@ -5,7 +5,12 @@
 
 ## Diseño UX/UI
 
-Conocimientos intermedios en:
+Conocimientos en: 
+- Diseño de experiencia de usuario
+- Research
+- Bechmark
+- Arquitectura de información
+- Diseño de Interacción
 - Diseño de Interfaces
 - UI Design
 - Figma
@@ -13,16 +18,9 @@ Conocimientos intermedios en:
 - Diseño responsivo
 - Bootstrap
 
-Conocimientos básicos en:
-- Diseño de experiencia de usuario
-- Research
-- Bechmark
-- Arquitectura de información
-- Diseño de Interacción
-
 ## Desarrollo Web
 
-Conocimientos intermedio en:
+Conocimientos en:
 - HTML5
 - CSS3
 - Grid
@@ -31,15 +29,10 @@ Conocimientos intermedio en:
 - SASS
 - LESS
 - JQuery
-
-Conocimientos básicos en:
 - Javascript
-- Angular
 - GitHub
 
 ## SEO
-
-Conocimientos basicos en:
 - Sitemap
 - Robots.txt
 - Investigación de Palabras Clave
