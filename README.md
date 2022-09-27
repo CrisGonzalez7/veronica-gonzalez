@@ -16,6 +16,7 @@ Conocimientos en:
 - LESS
 - JQuery
 - GitHub
+- Diseño responsivo
 
 Estudiando: 
 - Javascript
@@ -32,13 +33,9 @@ Conocimientos básicos en:
 - Diseño de Interfaces
 - UI Design
 - Figma
-- Maquetas HTML y CSS
-- Diseño responsivo
-- Bootstrap
-
-
 
 ## SEO
+
 - Sitemap
 - Robots.txt
 - Investigación de Palabras Clave
@@ -49,3 +46,4 @@ Conocimientos básicos en:
 - Google Trends
 - Google Search Console
 - Google Mobile Friendly
+- Google Analytics
