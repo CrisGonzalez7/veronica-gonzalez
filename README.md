@@ -5,12 +5,14 @@
 
 ## Diseño UX/UI
 
-Conocimientos en: 
+Conocimientos básicos en:
 - Diseño de experiencia de usuario
 - Research
 - Bechmark
 - Arquitectura de información
 - Diseño de Interacción
+
+Conocimientos intermedios en:
 - Diseño de Interfaces
 - UI Design
 - Figma
@@ -20,7 +22,7 @@ Conocimientos en:
 
 ## Desarrollo Web
 
-Conocimientos en:
+Conocimientos intermedio en:
 - HTML5
 - CSS3
 - Grid
@@ -29,10 +31,15 @@ Conocimientos en:
 - SASS
 - LESS
 - JQuery
+
+Conocimientos básicos en:
 - Javascript
+- Angular
 - GitHub
 
 ## SEO
+
+Conocimientos basicos en:
 - Sitemap
 - Robots.txt
 - Investigación de Palabras Clave
