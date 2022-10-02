@@ -11,9 +11,10 @@ Conocimientos en:
 - CSS3
 - Grid
 - Flexbox
-- Bootstap
+- Bootstrap
 - SASS
 - LESS
+- BEM
 - JQuery
 - GitHub
 - Diseño responsivo
