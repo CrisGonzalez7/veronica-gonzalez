@@ -2,7 +2,7 @@
 
 # Verónica González
 
-Web Developer | Diseño UX/UI
+Soy una persona entusiasta que se encuentra buscando su lugar en el mundo de la tecnología. Estoy indagando en distintas áreas, aprendiendo de todo un poco, para posteriormente ver en qué especializarme. 
 
 ## Desarrollo Web
 
@@ -23,18 +23,6 @@ Estudiando:
 - Javascript
 - Angular
 
-## Diseño UX/UI
-
-Conocimientos básicos en: 
-- Diseño de experiencia de usuario
-- Research
-- Bechmark
-- Arquitectura de información
-- Diseño de Interacción
-- Diseño de Interfaces
-- UI Design
-- Figma
-
 ## SEO
 
 - Sitemap
@@ -48,3 +36,11 @@ Conocimientos básicos en:
 - Google Search Console
 - Google Mobile Friendly
 - Google Analytics
+
+## Diseño UX/UI
+
+Conocimientos en Diseño UX/UI 
+
+Estudios en la Academia Desafío Latam - Año 2021 
+
+- <a href="https://github.com/veronica-gonzalez/diseno-ux-ui/blob/main/README.md">Leer más sobre Conocimientos y experiencia en Diseño UX/UI</a> 
