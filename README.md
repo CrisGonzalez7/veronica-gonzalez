@@ -2,7 +2,9 @@
 
 # Verónica González
 
-Soy una persona entusiasta que se encuentra buscando su lugar en el mundo de la tecnología. Estoy indagando en distintas áreas, aprendiendo de todo un poco, para posteriormente ver en qué especializarme. 
+![Stats](https://github-readme-stats.vercel.app/api?username=veronica-gonzalez&show_icons=true&count_private=true&theme=dark)
+
+Soy una persona entusiasta que se encuentra buscando su lugar en el mundo de la tecnología. Estoy indagando en distintas áreas para posteriormente ver en qué especializarme. 
 
 ## Desarrollo Web
 
