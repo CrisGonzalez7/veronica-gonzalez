@@ -24,6 +24,7 @@ Conocimientos en:
 Aprendiendo: 
 - Javascript
 - Angular
+- Python
 
 [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=veronica-gonzalez&exclude_repo=buenaventura&layout=compact)](https://github.com/veronica-gonzalez/github-readme-stats)
 
