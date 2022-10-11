@@ -2,7 +2,7 @@
 
 # Verónica González
 
-Soy una persona entusiasta que se encuentra buscando su lugar en el mundo de la tecnología. Estoy indagando en distintas áreas para posteriormente ver en qué especializarme. En este momento me estoy adentrado en los mundos del <a href="https://github.com/veronica-gonzalez/veronica-gonzalez/edit/main/README.md#desarrollo-web">Desarrollo Web,</a> Testing QA y <a href="https://github.com/veronica-gonzalez/ciberseguridad/blob/main/README.md">Ciberseguridad.</a>
+Soy una persona entusiasta que se encuentra buscando su lugar en el mundo de la tecnología. Estoy indagando en distintas áreas para posteriormente ver en qué especializarme. En este momento me estoy adentrado en los mundos del [Desarrollo Web,](https://github.com/veronica-gonzalez/veronica-gonzalez/edit/main/README.md#desarrollo-web) [Testing QA](https://github.com/veronica-gonzalez/testing-qa/blob/main/README.md) y [Ciberseguridad.](https://github.com/veronica-gonzalez/ciberseguridad/blob/main/README.md)
 
 [![Verónica González Github Stats](https://readme-stats.warengonzaga.com/api?username=veronica-gonzalez&show_icons=true&count_private=true)](https://github.com/veronica-gonzalez/github-readme-stats) 
 
@@ -48,4 +48,4 @@ Conocimientos en Diseño UX/UI
 
 Estudios en la Academia Desafío Latam - Año 2021 
 
-- <a href="https://github.com/veronica-gonzalez/diseno-ux-ui/blob/main/README.md">Leer más sobre Conocimientos y experiencia en Diseño UX/UI</a> 
+- [Leer más sobre Conocimientos y experiencia en Diseño UX/UI](https://github.com/veronica-gonzalez/diseno-ux-ui/blob/main/README.md)
