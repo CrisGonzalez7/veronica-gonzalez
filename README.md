@@ -25,7 +25,7 @@ Aprendiendo:
 - Javascript
 - Angular
 
-[![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=veronica-gonzalez&exclude_repo=buenaventura&layout=compact)](https://github.com/veronica-gonzalez/github-readme-stats)
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=veronica-gonzalez&hide=TypeScript,PHP,Python&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## SEO
