@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGDE5IP_Fd3zQ/profile-displaybackgroundimage-shrink_200_800/0/1654397206013?e=1669248000&v=beta&t=F4gUQ4VqdnJflgOGDSfY0-tVSfEsnHXxSzKcu0Go9C4" width="100%" height="auto"/>
+<img src="https://media.licdn.com/dms/image/C4D16AQGDE5IP_Fd3zQ/profile-displaybackgroundimage-shrink_350_1400/0/1654397206013?e=1678924800&v=beta&t=8miJjV3c4pASYDI8MJ5CdK--AAaCEb1BFz6x5cTsGo0" width="100%" height="auto"/>
 
 # Verónica González
 
@@ -25,8 +25,8 @@ Aprendiendo:
 - Javascript
 - Angular
 
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=veronica-gonzalez&hide=TypeScript,PHP,Python&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=veronica-gonzalez&hide=php,typescript,python)
 
 ## SEO
 
